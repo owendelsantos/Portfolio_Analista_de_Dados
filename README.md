@@ -25,4 +25,4 @@ Aqui você encontrará projetos que demonstram minhas habilidades em análise de
 - 💼 LinkedIn: https://www.linkedin.com/in/wendelcorreadossantos/
 - 📧 Email: wendel.correa97@gmail.com
 
-✨ Obrigado por visitar meu portfólio! Fique à vontade para explorar os projetos e entrar em contato.
+Obrigado por visitar meu portfólio! Fique à vontade para explorar os projetos e entrar em contato.
