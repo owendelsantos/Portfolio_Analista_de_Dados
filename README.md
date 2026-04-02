@@ -11,7 +11,6 @@ Aqui você encontrará projetos que demonstram minhas habilidades em análise de
 🎓 Formação:
   
 - Formado em Tecnologia em Gestão da Tecnologia da Informação pela Universidade Nove de Julho (UNINOVE) – Conclusão em 06/2024
-- Formado na pós-graduação em Data Science & Analytics pela Universidade Nove de Julho (UNINOVE) – Conclusão em 11/2025
 
 🛠️ Habilidades principais:
 
